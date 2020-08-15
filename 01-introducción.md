@@ -4,7 +4,7 @@ Sistema que recopila datos abiertos de los gobiernos, a fin de proporcionar su d
 ##### Fuente
 :link: https://amsterdamsmartcity.com/projects/citysdk
 
-:pushpin: Amsterdam, Países Bajos
+:pushpin: Ámsterdam, Países Bajos
 
 :calendar: 2012
 
